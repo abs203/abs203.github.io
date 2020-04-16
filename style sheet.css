@@ -94,6 +94,7 @@ a:hover{
 
 .post-author span{
  margin-left: 16px;
+ font-weight: bold;
 }
 
 .post-date{
